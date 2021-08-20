@@ -1,0 +1,46 @@
+h1{
+    font-family: sans-serif;
+    color: orange;
+    font-size: 65px;
+}
+p{
+    font-weight: 600;
+    font-size: 3em;
+    font-family: monospace;
+    text-decoration: underline;
+}
+body{
+    font-size: 16px;
+    font-family: monospace;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+#amarelo{
+    background-color: yellow;
+}
+#vermelho{
+    background-color: red;
+}
+#marrom{
+    background-color: brown;
+}
+ul{
+    line-height: 35px;
+    font-style: italic;
+    background-color: orange;
+}
+/*
+body{
+    background-color: gray;
+}
+h1{
+    color: orange;
+    font-size: 65px;
+}
+ul{
+    background-color: orange;
+}
+.lista{
+    background-color: green;
+}
+*/
