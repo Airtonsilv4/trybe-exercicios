@@ -1,0 +1,60 @@
+ol.lista-ordenada {
+    background-color: yellow;
+}
+
+ol li.par {
+    color: rgb(0, 128, 0);
+}
+
+ol li.impar {
+    text-transform: uppercase;
+}
+
+h1, h3 {
+    color: red;
+}
+
+h1.header {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bolder;
+}
+
+.azul {
+    color: blue;
+}
+
+.java {
+    background-color: pink;
+}
+
+.listinha:hover {
+    font-weight: bolder;
+}
+
+.stack a:hover {
+    color: orange;
+}
+
+.w33 a:hover {
+    color: rgb(11, 150, 11);
+}
+
+.mdn a:hover {
+    color: black;
+}
+
+.dev a:hover {
+    color: rgb(168, 168, 57);
+}
+
+.trybe a:hover {
+    color: #036b52;
+}
