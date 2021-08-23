@@ -8,8 +8,8 @@
         height: 50px;
         text-align: center;
         width: 200px;
-        display: block;
-        margin-left: 600px;
+        display: inline-block; 
+        /*margin-left: 600px;*/
       }
 
       .second {
