@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+
+.header h1 {
+    color: white;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 50px;
+    font-style: oblique;
+    font-family: monospace;
+}
+
+.links {
+    text-align: center;
+}
+
+.links ul li {
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgb(0, 0, 0);
+}
+
+.table {
+    color: rgba(255, 255, 255, 0.349);
+    font-family: monospace;
+    border-collapse: collapse;
+    width: 20%;
+}
+
+.table tr td {
+    border: 2px solid rgba(180, 180, 180, 0.342);
+    text-align: left;
+    padding: 5px;
+}
+
+.section-info {
+    display: flex;
+    width: 100%;
+    justify-content:space-between;
+    
+}
+
+.article {
+    background-image: url("https://i.natgeofe.com/n/f46158fc-9bf2-4453-8a15-6b11b323c08e/Peacock-mantis.jpg?w=636&h=424");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-color: black;
+    height: 400px;
+}
+
+.infos {
+    font-size: 15px;
+    width: 50%;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin-left: 650px;
+    margin-top: 100px;
+}
+
+.tables {
+    width: 15%;
+    margin-top: 125px;
+}
