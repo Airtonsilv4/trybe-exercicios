@@ -54,16 +54,32 @@
 //   console.log("ângulo inválido");
 // }
 
-//Requisito 6
-// const z = "Pawn"
-// const n = "Knight"
-// const b = "Bishop"
-// const r = "Rook"
-// const q = "Queen"
-// const k = "King"
+// Requisito 6
 
-// let piece;
+// let chessPiece;
+// chessPiece = "KING"
 
-// if (piece == z){
-//   console.log("Foward")
+// let lowerChessPiece = chessPiece.toLowerCase()
+
+// switch (lowerChessPiece){
+//   case 'king':
+//     console.log("Any direction, one square per turn");
+//   break
+//   case 'queen':
+//     console.log("Any direction");
+//   break
+//   case 'rook':
+//     console.log("In Line");
+//   break
+//   case 'bishop':
+//     console.log("Diagonals");
+//   break
+//   case 'knight':
+//     console.log("L Shape");
+//   break
+//   case 'pawn':
+//     console.log("One square ahead");
+//   break
+//   default:
+//     console.log("NOT A CHESS PIECE");
 // }
