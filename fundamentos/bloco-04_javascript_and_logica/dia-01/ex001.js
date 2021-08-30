@@ -1,20 +1,21 @@
 // Requisito 1
+
 // const a = 5
 // const b = 10
-
-// console.log(a+b, a-b, a*b, a/b, a%b);
+// console.log(a+b);
 // console.log(a-b);
 // console.log(a*b);
 // console.log(a/b);
 // console.log(a%b);
 
 //Requisito 2
-// let a = 50
+// let a = 10
 // let b = 49
-
-// if (a + b) {
-//   console.log("Maior numero");
-// }
+//   if (a > b) {
+//     console.log("Maior numero");
+//   } else {
+//     console.log("Não é o maior numero");
+//   } 
 
 //Requisito 3
 // let a = 4
@@ -83,3 +84,12 @@
 //   default:
 //     console.log("NOT A CHESS PIECE");
 // }
+
+
+
+
+
+// function soma (a , b){
+//   return a + b
+//   }
+//  console.log(soma(10, 5));
