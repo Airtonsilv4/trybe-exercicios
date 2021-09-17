@@ -1,0 +1,9 @@
+body {
+  color: goldenrod;
+  background-color: rgb(37, 37, 37);
+}
+
+.border {
+  padding: 20px;
+  margin: 10px;
+}
