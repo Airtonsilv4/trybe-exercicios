@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid black;
+  border-radius: 15px;
+  height: 120px;
+  min-width: 500px;
+  margin: 10px;
+}
+
+.description {
+  text-align: center;
+}
